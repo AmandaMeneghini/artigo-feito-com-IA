@@ -1,1 +1,3 @@
-# Em cosntrução 🚧
+# Em construção 🚧
+
+Em andamento...
