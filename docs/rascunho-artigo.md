@@ -1,5 +1,6 @@
 ### C# e VS Code: Um Ambiente Ágil para Desenvolvedores Iniciantes
 
+
 **Introdução**  
 Imagina que você está na Matrix, cheio de códigos verdes caindo na tela. C# é como as habilidades que o Neo aprende para lutar contra os agentes, só que para programar. Agora, ao invés de usar uma ferramenta pesada, como o Visual Studio (aquela nave gigante do Morpheus), você pode usar o VS Code, que é leve e ágil, como o Neo em modo “desviar de balas”.
 
