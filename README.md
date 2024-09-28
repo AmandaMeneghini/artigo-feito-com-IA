@@ -37,29 +37,44 @@ Conteúdo gerado por: chatGPT e revisões humanas
 ```
 crie para mim uma imagem do personagem morpheus com as mãos estendidas com uma mão com o logo C# na mão e não outra o logo do VS Code, no estilo ultrarealista
 ```
-#### Resultado - sem edição 🙂‍↔️ 
+#### Resultado - sem edição 🖌️🚫
 
-<img src="./assets/images/_5e9844ff-4920-4b05-ae11-5f107686a6ba.jfif" width="250px">
+<img src="./assets/images/_5e9844ff-4920-4b05-ae11-5f107686a6ba.jfif" width="250px" alt="imagem gerada por inteligência artíficial do personagem Morpheus de capuz do Filme Matrix, com as mãos estendidades com cubos azuis flutuantes"><br>
 
 
 # 🚩 Resultado Final
 
-<img src="./assets/images/arts-headlines/Headline_01.png"/>
+<img src="./assets/images/arts-headlines/Headline_01.png" alt="imagem editada com Morpheus com as mãos estendidas com duas pílulas vermelhas uma escrito 'C#' e outra escrito 'VSCode', e códigos verdes caindo ao fundo"/>
 
 
-# Introdução
-Imagina que você está na Matrix, C# é como as habilidades que o Neo aprende para lutar contra os agentes, só que para programar. Agora, ao invés de usar uma ferramenta pesada, como o Visual Studio (aquela nave gigante do Morpheus), você pode usar o VS Code, que é leve e ágil, como o Neo em modo “desviar de balas”.
+## Introdução
 
-<img src="./assets/images/arts-headlines/Headline_02.png"/>
+Imagina que você está na **Matrix**, com linhas de código caindo pela tela. O C# é como as habilidades que o Neo adquire para lutar contra os agentes — só que no mundo da programação. E ao invés de usar uma ferramenta pesada como o Visual Studio, você tem o VS Code, uma ferramenta leve e ágil, permitindo que você programe com a mesma leveza e destreza do Neo desviando de balas.
 
-C# é como a chave-mestra do Neo. Com ela, você pode abrir portas e criar praticamente qualquer tipo de software, desde jogos até grandes sistemas. É uma linguagem fácil de entender, como quando o Neo aprende kung fu na cadeira. Se você seguir o caminho do C#, vai conseguir criar mundos inteiros, só que de código.
+Se você é iniciante, este artigo vai te mostrar como essa dupla pode te transformar no "Escolhido" do mundo da programação.
+
+<img src="./assets/images/arts-headlines/Headline_02.png" alt="imagem editada com o personagem Neo do filme Matrix com um mestre treinando Kung-Fu com ele, com umas rua estilo chinesae atrás e códigos verdes caindo ao fundo"/>
+
+O C# é uma linguagem versátil, assim como as habilidades do Neo na **Matrix**. Ela permite que você crie uma ampla gama de aplicações: desde jogos com Unity até grandes sistemas corporativos. Sua sintaxe clara e robusta facilita o aprendizado, tornando-a uma excelente escolha para iniciantes que querem mergulhar no universo do desenvolvimento de software. 
+
+Se você está começando, o C# oferece uma curva de aprendizado suave, mas poderosa, como quando Neo começa a dominar as regras da **Matrix**. Com o tempo, você poderá construir sistemas complexos, da mesma forma que o Neo aprende a manipular as regras ao seu redor.
+
+
+**Continue o artigo** [**aqui...**](link) 🖱️
 
 ## Ferramentas Utilizadas 🛠️
 <div style="display: flex; gap: 5px">
-    <img src="./assets/logos/chatgpt.png" style="width: 50px; border-radius: 10px">
-    <img src="./assets/logos/copilot.png" style="width: 50px; border-radius: 10px">
-    <img src="./assets/logos/adobe-photoshop.png" style="width: 50px; border-radius: 10px">
+    <a href="https://chatgpt.com/"><img src="./assets/logos/chatgpt.png" style="width: 50px; border-radius: 10px" aLt="ícone do logo do ChatGPT que leva ao seu site"></a>
+    <a href="https://copilot.microsoft.com/"><img src="./assets/logos/copilot.png" style="width: 50px; border-radius: 10px" alt="ícone do logo do Microsoft Copilot que leva ao seu site"></a>
+    <a href="https://www.adobe.com/br/products/photoshop.html"><img src="./assets/logos/adobe-photoshop.png" style="width: 50px; border-radius: 10px" alt="ícone do logo do Adobe Photoshop que leva ao seu site"></a>
+    <a href="https://www.adobe.com/br/products/firefly.html"><img src="./assets/logos/adobe-firefly.png" width="50" alt="ícone do logo do Adobe Firefly que leva ao seu site"></a>
 </div>
+
+
+
+## Um gostinho do Making off ☝️🤓
+
+<img src="./assets/gif/speedart-capa-conclusao-artigo .gif" alt="gif de uma speedart feita no photoshop com o adobe firefly incluso, de umas das capas de headline de 'conclusão'">
 
 ## 👨‍💻 Autora
 
