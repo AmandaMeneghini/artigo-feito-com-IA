@@ -60,7 +60,7 @@ O C# é uma linguagem versátil, assim como as habilidades do Neo na **Matrix**.
 Se você está começando, o C# oferece uma curva de aprendizado suave, mas poderosa, como quando Neo começa a dominar as regras da **Matrix**. Com o tempo, você poderá construir sistemas complexos, da mesma forma que o Neo aprende a manipular as regras ao seu redor.
 
 
-**Continue o artigo** [**aqui...**](https://digitalinnovation.one/artigos/c-e-vs-code-um-ambiente-agil-para-desenvolvedores-iniciantes) 🖱️
+**CONTINUE O ARTIGO** [**AQUI...**](https://digitalinnovation.one/artigos/c-e-vs-code-um-ambiente-agil-para-desenvolvedores-iniciantes) 📕
 
 ## Ferramentas Utilizadas 🛠️
 <div style="display: flex; gap: 5px">
