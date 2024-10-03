@@ -44,7 +44,7 @@ crie para mim uma imagem do personagem morpheus com as mãos estendidas com uma 
 
 # 🚩 Resultado Final
 
-<img src="./assets/images/arts-headlines/Headline_01.png" alt="imagem editada com Morpheus com as mãos estendidas com duas pílulas vermelhas uma escrito 'C#' e outra escrito 'VSCode', e códigos verdes caindo ao fundo"/>
+<img src="./assets/images/arts-headlines/Headline_01.png" alt="imagem editada com o personagem Morpheus do filme Matrix com as mãos estendidas com duas pílulas vermelhas uma escrito 'C#' e outra escrito 'VSCode' em cada mão, e códigos verdes caindo ao fundo"/>
 
 
 ## Introdução
@@ -53,14 +53,14 @@ Imagina que você está na **Matrix**, com linhas de código caindo pela tela. O
 
 Se você é iniciante, este artigo vai te mostrar como essa dupla pode te transformar no "Escolhido" do mundo da programação.
 
-<img src="./assets/images/arts-headlines/Headline_02.png" alt="imagem editada com o personagem Neo do filme Matrix com um mestre treinando Kung-Fu com ele, com umas rua estilo chinesae atrás e códigos verdes caindo ao fundo"/>
+<img src="./assets/images/arts-headlines/Headline_02.png" alt="imagem editada com o personagem Neo do filme Matrix com um mestre treinando Kung-Fu com ele, em uma rua oriental e códigos verdes caindo ao fundo"/>
 
 O C# é uma linguagem versátil, assim como as habilidades do Neo na **Matrix**. Ela permite que você crie uma ampla gama de aplicações: desde jogos com Unity até grandes sistemas corporativos. Sua sintaxe clara e robusta facilita o aprendizado, tornando-a uma excelente escolha para iniciantes que querem mergulhar no universo do desenvolvimento de software. 
 
 Se você está começando, o C# oferece uma curva de aprendizado suave, mas poderosa, como quando Neo começa a dominar as regras da **Matrix**. Com o tempo, você poderá construir sistemas complexos, da mesma forma que o Neo aprende a manipular as regras ao seu redor.
 
 
-**CONTINUE O ARTIGO** [**AQUI...**](https://digitalinnovation.one/artigos/c-e-vs-code-um-ambiente-agil-para-desenvolvedores-iniciantes) 📕
+**Continue o artigo** [**aqui...**](https://digitalinnovation.one/artigos/c-e-vs-code-um-ambiente-agil-para-desenvolvedores-iniciantes) 📕
 
 ## Ferramentas Utilizadas 🛠️
 <div style="display: flex; gap: 5px">
@@ -70,9 +70,22 @@ Se você está começando, o C# oferece uma curva de aprendizado suave, mas pode
     <a href="https://www.adobe.com/br/products/firefly.html"><img src="./assets/logos/adobe-firefly.png" width="50" alt="ícone do logo do Adobe Firefly que leva ao seu site"></a>
 </div>
 
+## 🗂 Estrutura do Projeto
+```
+/
+├── assets/
+│   └── gif/        # GIF do Processo de edição de uma capa - speedart/making of
+│   └── images/     # Imagens utilizadas
+|         └── arts-headlines/      # arts de cada tópico criado no artigo
+|   └── logos/      # logos utilizados
+|
+├── docs/           # Artigo base e editado .md
+│   
+└── README.md       # Este arquivo
+    
+```
 
-
-## Um gostinho do Making off ☝️🤓
+## Um gostinho do Making of ☝️🤓
 
 <img src="./assets/gif/speedart-capa-conclusao-artigo .gif" alt="gif de uma speedart feita no photoshop com o adobe firefly incluso, de umas das capas de headline de 'conclusão'">
 
